@@ -1,5 +1,4 @@
 import { getDb, putDb } from './database';
-import { getDb, putDb } from './database';
 import { header } from './header';
 
 export default class {
